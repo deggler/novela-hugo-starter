@@ -8,3 +8,10 @@ timeToRead = 20
 title = "Mein Erster Post"
 
 +++
+Das ist mein Erster Post.
+
+# So schaut er aus
+
+## Weil e sso schön ist
+
+Und das ist der Text dazu
